@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "385897007012",
+    "firebase_url": "https://halobidan-fbd91-default-rtdb.firebaseio.com",
+    "project_id": "halobidan-fbd91",
+    "storage_bucket": "halobidan-fbd91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385897007012:android:d8cfdb86ad5de0946b2331",
+        "android_client_info": {
+          "package_name": "com.example.halo_bidan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBslM6hFN1Wp5kGCTIJAIxXBI-keYKymfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

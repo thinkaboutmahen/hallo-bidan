@@ -1,0 +1,33 @@
+name: halo_bidan
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.10+1
+  cached_network_image: ^3.2.0 # Use the latest version suitable for your project
+  intl: ^0.17.0  # You can adjust the version number as needed
+  firebase_core: ^2.31.0
+  firebase_storage: ^11.0.1
+  cloud_firestore: ^4.17.3
+  url_launcher: ^6.0.20
+  firebase_auth: ^4.19.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/logoibumenyusui.png
+  - assets/images/logohb.png
+  - assets/images/kalkulator kehamilan.png
+  - assets/images/riwayat pemeriksaan.png
+  - assets/images/img_asset_2_1.png
